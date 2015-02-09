@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	overflow: hidden;
+}
+
+#backgroundMovie {
+	position: fixed;
+	min-width: 100%;
+	min-height: 100%;
+	z-index: -99;
+}
+
+#pattern {
+	position: fixed;
+	background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAS0lEQVQYV2NkwAT/oUKMyFIoHAYGBpAimBgyGy4I0owiATUNLoZVN5prwIpBCrGZhO7y/yQpxOU+mKlwq1EEsLkPJEZW8CCbjGEIAFyAEgka3Y6YAAAAAElFTkSuQmCC) repeat;
+	min-width: 100%;
+	min-height: 100%;
+	left: 0;
+	top: 0;
+	z-index: -50;
+}
+
+#logoBL {
+	position: relative;
+	height: 100%;
+	width: 100%;
+	top: 45px;
+	margin: 0 auto;
+	z-index: 3;
+}
