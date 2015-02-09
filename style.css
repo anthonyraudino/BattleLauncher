@@ -30,3 +30,9 @@ body {
 	margin: 0 auto;
 	z-index: 3;
 }
+
+#ping {
+	background-color: #f5f5f5;
+	border-radius: 5px;
+	width: 250px;
+}
