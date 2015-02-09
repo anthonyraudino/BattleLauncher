@@ -24,9 +24,9 @@ body {
 
 #logoBL {
 	position: relative;
-	height: 100%;
-	width: 100%;
 	top: 45px;
+	width: 352px;
+	height: 71px;
 	margin: 0 auto;
 	z-index: 3;
 }
