@@ -3,6 +3,7 @@
 
 body {
 	overflow: hidden;
+	font-family: "Arial Narrow", Arial, sans-serif;
 }
 
 #backgroundMovie {
@@ -32,7 +33,14 @@ body {
 }
 
 #ping {
+	position: fixed;
 	background-color: #f5f5f5;
 	border-radius: 5px;
-	width: 250px;
+	width: 120px;
+	opacity: 0.7;
+	bottom: 30px;
+	left: 25px;
+	text-align: center;
+	padding: 10px;
+	z-index: 5;
 }
