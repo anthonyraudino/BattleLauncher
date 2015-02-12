@@ -13,6 +13,7 @@ body {
 	z-index: -99;
 }
 
+
 #pattern {
 	position: fixed;
 	background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAS0lEQVQYV2NkwAT/oUKMyFIoHAYGBpAimBgyGy4I0owiATUNLoZVN5prwIpBCrGZhO7y/yQpxOU+mKlwq1EEsLkPJEZW8CCbjGEIAFyAEgka3Y6YAAAAAElFTkSuQmCC) repeat;
@@ -43,4 +44,23 @@ body {
 	text-align: center;
 	padding: 10px;
 	z-index: 5;
+}
+
+#tiles {
+	position: relative;
+	top: 75px;
+	width: 600px;
+	height: 400px;
+	margin: 0 auto;
+	opacity: 0.9;
+}
+
+.games-tiles {
+	padding: 5px;
+}
+
+.changetip_tipme_button {
+	position: fixed;
+	top: 10px;
+	left: 10px;
 }
