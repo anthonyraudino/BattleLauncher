@@ -5,7 +5,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-
+<meta name="description" content="Launcher for Battlelog-powered Battlefield franchise titles.>
+<meta name="keywords" content="battlefield, EA, DICE, plygnd">
+<meta name="robots" content="INDEX/FOLLOW">
 <title>About | BattleLauncher</title>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
