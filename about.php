@@ -6,7 +6,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
-<title>BattleLauncher | Battlefield Game Launcher</title>
+<title>About | BattleLauncher</title>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -37,13 +37,14 @@
 echo $status2; ?>
 </div>
 
-<div id="tiles">
-<a href="http://battlelog.battlefield.com/bf3/"><img class="games-tiles" src="tiles/bf3-tile.png" /></a><br />
-<a href="http://battlelog.battlefield.com/bf4/"><img class="games-tiles" src="tiles/bf4-tile.png" /></a><br />
-<a href="hardline.php"><img class="games-tiles" src="tiles/hl-unreleased-tile.png" /></a>
+<div id="about-container">
+<div class="about-text"><h2>What is this?</h2><hr />
+BattleLauncher is a quick tool for those of us who own multiple Battlefield games powered by the social networking site, Battlelog.<br />
+It allows players to quickly open the version of Battlelog corresponding to the game they are wanting to play using one bookmark, rather than two or three.<br /><br />If you want to make something of your own using this code, check out the repo on <a class="about-ref" href="http://github.com/plygnd">GitHub</a>. Feel free to also report bugs, feedback and request additions on <a class="about-ref" href="http://reddit.com/r/plygnd">Reddit</a>!<hr />If you want to keep up to date on updates and other projects, or just want to say hi, follow me on <a class="about-ref" href="http://twitter.com/oneshotanth">Twitter</a> or <a class="about-ref" href="mailto:launch@plygnd.me">Email</a> me!<br /><br /><i>Please note: This site is free to use and does not sell ad space, however, Google Analytics tracking is utilized to further create a better experience. To support Plygnd and its projects, you can use the Changetip widget on the top left.<br />This application is built for Google Chrome, other browsers may break the site.</i>
+</div>
 </div>
 
-<div id="credits">©2014-2015 <a href="http://plygnd.me">Plygnd</a> | <a href="about.php">What is this?</a> | Battlefield is owned by Electronic Arts</div>
+<div id="credits">©2014-2015 <a href="http://plygnd.me">Plygnd</a> | <a href="/about">What is this?</a> | Battlefield is owned by Electronic Arts</div>
 
 <!-- ChangeTip Widget -->
 <div class="changetip_tipme_button" data-bid="ErPGtXfPseXYp7vsgWbBxT" data-uid="FS97mxERHAMPZmCehn3wnA"></div><script>(function(document,script,id){var js,r=document.getElementsByTagName(script)[0],protocol=/^http:/.test(document.location)?'http':'https';if(!document.getElementById(id)){js=document.createElement(script);js.id=id;js.src=protocol+'://widgets.changetip.com/public/js/widgets.js';r.parentNode.insertBefore(js,r)}}(document,'script','changetip_w_0'));</script>

@@ -6,7 +6,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
-<title>BattleLauncher | Battlefield Game Launcher</title>
+<title>About | BattleLauncher</title>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -37,13 +37,13 @@
 echo $status2; ?>
 </div>
 
-<div id="tiles">
-<a href="http://battlelog.battlefield.com/bf3/"><img class="games-tiles" src="tiles/bf3-tile.png" /></a><br />
-<a href="http://battlelog.battlefield.com/bf4/"><img class="games-tiles" src="tiles/bf4-tile.png" /></a><br />
-<a href="hardline.php"><img class="games-tiles" src="tiles/hl-unreleased-tile.png" /></a>
+<div id="about-container">
+<div class="about-text"><h2>Dude! Relax! The game isn't even out yet!</h2><hr />
+Just like many others, it looks like you're too excited to play this new instalment in the Battlefield franchise.<br />If you want to pre-order the game you can do so via <a class="about-ref" href="http://www.battlefield.com/hardline/buy?intcmp=HARDLINE_GLOBAL_all_pages_Main_Navigation_top-right_Pre-Order-Now">Origin (PC and Consoles)</a> or via <a class="about-ref" href="http://www.g2play.net/category/7363/battlefield-hardline-pre-order-origin-key/?___store=g2play_net_english&acc=dafbo">G2Play[Kinguin] (PC)</a>
+</div>
 </div>
 
-<div id="credits">©2014-2015 <a href="http://plygnd.me">Plygnd</a> | <a href="about.php">What is this?</a> | Battlefield is owned by Electronic Arts</div>
+<div id="credits">©2014-2015 <a href="http://plygnd.me">Plygnd</a> | <a href="/about">What is this?</a> | Battlefield is owned by Electronic Arts</div>
 
 <!-- ChangeTip Widget -->
 <div class="changetip_tipme_button" data-bid="ErPGtXfPseXYp7vsgWbBxT" data-uid="FS97mxERHAMPZmCehn3wnA"></div><script>(function(document,script,id){var js,r=document.getElementsByTagName(script)[0],protocol=/^http:/.test(document.location)?'http':'https';if(!document.getElementById(id)){js=document.createElement(script);js.id=id;js.src=protocol+'://widgets.changetip.com/public/js/widgets.js';r.parentNode.insertBefore(js,r)}}(document,'script','changetip_w_0'));</script>

@@ -41,7 +41,7 @@ body {
 	opacity: 0.7;
 	bottom: 30px;
 	left: 25px;
-	text-align: center;
+	text-align: left;
 	padding: 10px;
 	z-index: 5;
 }
@@ -63,4 +63,62 @@ body {
 	position: fixed;
 	top: 10px;
 	left: 10px;
+}
+
+#credits {
+	position: fixed;
+	right: 30px;
+	bottom: 20px;
+	color: #f5f5f5;
+	text-shadow: #333 1px 1px 1px;
+}
+
+a {
+	text-decoration: none;
+	color: #0C0;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.icon {
+	width: 16px;
+	height: 16px;
+}
+
+#about-container {
+	position: relative;
+	margin: 0 auto;
+	color: #111;
+	background-color: #CCC;
+	opacity: 0.9;
+	border-radius: 5px;
+	width: 600px;
+	height: 700px
+	padding: 30px;
+	font-size: 18px;
+	top: 100px;	
+}
+
+h2 {
+	font-size: 32px;
+}
+
+i {
+	font-size: 13px;
+	font-style: italic;
+}
+
+.about-text {
+	position: relative;
+	height: 95%;
+	width: 550px;
+	margin: 0 auto;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.about-ref {
+	color: #F00;
 }
