@@ -46,7 +46,7 @@ It allows players to quickly open the version of Battlelog corresponding to the 
 </div>
 </div>
 
-<div id="credits">©2014-2015 <a href="http://plygnd.me">Plygnd</a> | <a href="/about">What is this?</a> | Battlefield is owned by Electronic Arts</div>
+<div id="credits">©2014-2015 <a href="http://plygnd.me">Plygnd</a> | <a href="about.php">What is this?</a> | Battlefield is owned by Electronic Arts</div>
 
 <!-- ChangeTip Widget -->
 <div class="changetip_tipme_button" data-bid="ErPGtXfPseXYp7vsgWbBxT" data-uid="FS97mxERHAMPZmCehn3wnA"></div><script>(function(document,script,id){var js,r=document.getElementsByTagName(script)[0],protocol=/^http:/.test(document.location)?'http':'https';if(!document.getElementById(id)){js=document.createElement(script);js.id=id;js.src=protocol+'://widgets.changetip.com/public/js/widgets.js';r.parentNode.insertBefore(js,r)}}(document,'script','changetip_w_0'));</script>
